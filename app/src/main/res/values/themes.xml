@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.TradingSignals" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#FF6200</item>
+        <item name="colorPrimaryVariant">#E55A00</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+</resources>
